@@ -1,6 +1,6 @@
 # License Plate Recognition
 
-Segmentation Task
+Object Detection Task
 
 Training and making inference on custom data using YoloV8
 
